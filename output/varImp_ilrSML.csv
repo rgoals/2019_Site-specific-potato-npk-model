@@ -1,0 +1,26 @@
+ID,columns,importance,en
+24,PrecCropFiveClasses_Legume,0.002728464368157881,Preceding crop – legume
+23,PrecCropFiveClasses_LRC,0.005687853400940348,Preceding crop – low-residue crop
+20,PrecCropFiveClasses_Cereal,0.012405350596433447,Preceding crop – cereal
+21,PrecCropFiveClasses_Grassland,0.014759310955344163,Preceding crop – grassland
+18,soil_K2_Fv.MgCa,0.018339743732296555,"Soil K chemistry [Fv | Mg,Ca]"
+2,temp_moy_5years,0.021884461400514425,Mean season temperature (5 years)
+14,soil_pH,0.022758621806583137,Soil pH
+7,PtotDose,0.024733078541066926,Total P dose (kg P2O5/ha)
+12,soilTypeIlr1_3,0.025046884284472673,Soil type [gley | podzol]
+16,soil_P1_Al.P,0.02643303313129637,Soil P chemistry [Al | P]
+4,sdi_5years,0.02662184107151479,Shannon diversity index (5 years)
+19,soil_K2_Mg.Ca,0.0282081508140548,Soil K chemistry [Mg | Ca]
+8,KtotDose,0.031005885272673197,Total K dose (kg K2O/ha)
+15,soil_P1_Fv.AlP,0.0319679575752984,"Soil P chemistry [Fv | Al,P]"
+17,soil_K2_FvMgCa.K,0.034184806444995816,"Soil K chemistry [Fv,Mg,Ca| K]"
+5,gdd_5years,0.034870293305991465,Growing degree days (5 years)
+11,soilTextIlr3,0.036922256051024116,Soil texture [Sand | Silt]
+9,soilTextIlr1,0.04362542233173365,Soil texture [C | Mineral]
+13,soilTypeIlr2_3,0.049418612091962306,Soil type gley [fine | coarse]
+1,growing.season,0.049842124354933716,Growing season (days)
+0,DensitePlants,0.05160683825328785,Plant density
+3,prec_tot_5years,0.0688825329082544,Total seasonal precipitations (5 years)
+10,soilTextIlr2,0.07054665832216443,"Soil texture [Sand,Silt | Clay]"
+6,NtotDose,0.10220481978320115,Total N dose (kg N/ha)
+22,PrecCropFiveClasses_HRC,0.16531499920180395,Preceding crop – high-residue crop

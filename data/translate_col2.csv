@@ -1,0 +1,38 @@
+columns,en,fr
+RendVendable,Marketable yeild (Mg/ha),Rendement vendable (Mg/ha)
+NoEssai,Trial number,Numéro d’essai
+NoBloc,Block number,Numéro de bloc
+NoTraitement,Treatment number,Numéro de traitement
+DensitePlants,Plant density,Densité des plants
+PrecCropFiveClasses,Preceding crop,Précédent cultural
+PrecCropFiveClasses_Legume,Preceding crop – legume,Précédent cultural – légumineuses
+PrecCropFiveClasses_LRC,Preceding crop – low-residue crop,Précédent cultural – culture à résidus peu abondants
+PrecCropFiveClasses_HRC,Preceding crop – high-residue crop,Précédent cultural – culture à résidus abondants
+PrecCropFiveClasses_Grassland,Preceding crop – grassland,Précédent cultural – prairie
+PrecCropFiveClasses_Cereal,Preceding crop – cereal,Précédent cultural – céréales
+Cultivar,Cultivar,Cultivar
+Maturity5,Maturity class,Classe de maturité
+growing.season,Growing season (days),Saison de croissance (jours)
+temp_moy_5years,Mean season temperature (5 years),Température saisonnière moyenne (5 ans)
+prec_tot_5years,Total seasonal precipitations (5 years),Précipitations totales sur la saison (5 ans)
+sdi_5years,Shannon diversity index (5 years),Indice de diversité de Shannon des précipitations (5 ans)
+gdd_5years,Growing degree days (5 years),Degrés-jours de croissance (5 ans)
+NtotDose,Total N dose (kg N/ha),Dose totale de N (kg N/ha)
+PtotDose,Total P dose (kg P2O5/ha),Dose totale de P (kg P2O5/ha)
+KtotDose,Total K dose (kg K2O/ha),Dose totale de K (kg K2O/ha)
+soilTextIlr1,Soil texture [C | Mineral],Texture du sol [C | Minéral]
+soilTextIlr2,"Soil texture [Sand,Silt | Clay]","Texture du sol [Sable,Limon | Argile]"
+soilTextIlr3,Soil texture [Sand | Silt],Texture du sol [Sable | Limon]
+soilTypeIlr1_3,Soil type [gley | podzol],Type de sol [gley | podzol]
+soilTypeIlr2_3,Soil type gley [fine | coarse],Type de sol gley [fine | coarse]
+soil_pH,Soil pH,pH du sol
+soil_P1_Fv.AlP,"Soil P chemistry [Fv | Al,P]","Chimie du sol, P [Fv | Al,P]"
+soil_P1_Al.P,Soil P chemistry [Al | P],"Chimie du sol, P [Al | P]"
+soil_K2_FvMgCa.K,"Soil K chemistry [Fv,Mg,Ca| K]","Chimie du sol, K [Fv,Mg,Ca| K]"
+soil_K2_Fv.MgCa,"Soil K chemistry [Fv | Mg,Ca]","Chimie du sol, K [Fv | Mg,Ca]"
+soil_K2_Mg.Ca,Soil K chemistry [Mg | Ca],"Chimie du sol, K [Mg | Ca]"
+soil_P,Soil P,P sol
+soil_K,Soil K,K sol
+soil_Al,Soil Al,Al sol
+ISP1,Phosphorous saturation index,Indice de saturation en phosphore
+test_type,Trial type,Type d’essai

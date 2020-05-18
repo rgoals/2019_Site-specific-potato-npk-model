@@ -1,0 +1,5 @@
+,Train_R2,Train_MAE,Train_RMSE,Test_R2,Test_MAE,Test_RMSE,Target
+k-nearest neighbors,0.722,0.0036,0.0,0.583,0.0049,0.0066,SG
+Random forest,0.938,0.0017,0.0023,0.667,0.0044,0.0059,SG
+Neural networks,0.844,0.0028,0.0037,0.59,0.0045,0.0065,SG
+Gaussian processes,0.803,0.0031,0.0042,0.637,0.0046,0.0061,SG

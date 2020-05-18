@@ -1,0 +1,5 @@
+,NtotDose,PtotDose,KtotDose,Output,Target
+k-nearest neighbors,245.82,5.123,16.6498,-2.78,"[M, S | L]"
+Random forest,202.47,7.80004,184.7746,-1.04,"[M, S | L]"
+Neural networks,245.82,5.123,16.6498,-2.17,"[M, S | L]"
+Gaussian processes,229.63,107.38680000000001,1.7928,-2.75,"[M, S | L]"

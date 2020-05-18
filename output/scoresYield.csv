@@ -1,0 +1,6 @@
+,Train_R2,Train_MAE,Train_RMSE,Test_R2,Test_MAE,Test_RMSE,Target
+Mitscherlich,0.3499065099775729,6.225085679267415,8.105051701644816,0.3743418153067671,8.324856677986014,10.77479395960778,Yield
+k-nearest neighbors,0.917,1.6,2.89,0.521,5.5,7.27,Yield
+Random forest,0.898,2.29,3.21,0.592,5.07,6.72,Yield
+Neural networks,0.783,3.54,4.69,0.487,5.57,7.53,Yield
+Gaussian processes,0.836,3.06,4.08,0.579,5.1,6.82,Yield

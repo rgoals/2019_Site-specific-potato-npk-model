@@ -1,0 +1,5 @@
+,NtotDose,PtotDose,KtotDose,Output,Target
+k-nearest neighbors,39.85,106.11804,120.0595,30.13,Yield
+Random forest,188.65,106.84616,76.0612,31.56,Yield
+Neural networks,241.56,84.92408,11.8026,42.38,Yield
+Gaussian processes,247.98,63.86092,63.7772,33.15,Yield
